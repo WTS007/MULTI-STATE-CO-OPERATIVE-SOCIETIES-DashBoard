@@ -1,7 +1,6 @@
 # MULTI-STATE-CO-OPERATIVE-SOCIETIES-DashBoard
 This is a DashBoard Designed for MULTI-STATE CO-OPERATIVE SOCIETIES of Ministry of Cooperation
 
-```markdown
 # Registered Societies Dashboard
 
 This repository contains the source code for a dashboard application built with Node.js for registering, monitoring, and visualizing data of registered societies.
